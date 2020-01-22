@@ -1,0 +1,52 @@
+#cart.table>tbody>tr>td, .table>tfoot>tr>td{
+vertical-align: middle;
+}
+@media screen and (max-width: 600px) {
+table#cart tbody td .form-control{
+  width:20%;
+  display: inline !important;
+}
+.actions .btn{
+  width:36%;
+  margin:1.5em 0;
+}
+
+.actions .btn-info{
+  float:left;
+}
+.actions .btn-danger{
+  float:right;
+  margin-top: 0px;
+}
+/* .row{
+  margin-right:0px;
+} */
+#app{
+  padding-bottom: 10em;
+}
+
+table#cart thead { display: none; }
+table#cart tbody td { display: block; padding: .6rem; min-width:300px;}
+table#cart tbody tr td:first-child { background: #333; color: #fff; }
+table#cart tbody td:before {
+content: attr(data-th); font-weight: bold;
+display: inline-block; width: 10rem;
+}
+
+table#cart tfoot td{display:block; }
+table#cart tfoot td .btn{display:block;}
+.totprice{display:block;background: #3366FF;color: #fff;}
+
+}
+.tabcard.col-sm-12 {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.kirim-panel{
+  color: #337ab7;
+}
+
+#shipping .panel-group,#btnorder{
+  min-width:500px;
+}

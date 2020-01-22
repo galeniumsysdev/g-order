@@ -1,0 +1,21 @@
+.product-container .dropdown-menu,
+.outlet-container .dropdown-menu,
+.province-container .dropdown-menu,
+.area-container .dropdown-menu{
+	max-height: 300px;
+	overflow-y: auto;
+}
+
+#start-date{
+	width: 47%;
+	float: left;
+}
+
+#end-date{
+	width: 47%;
+	float: right;
+}
+
+.filter-form .container{
+	margin-bottom: 5px;
+}

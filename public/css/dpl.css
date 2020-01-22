@@ -1,0 +1,110 @@
+/* Created by WK Productions */
+
+.container .panel-heading {
+  font-size: 20px;
+}
+.form-wrapper {
+  padding: 15px 0 0;
+}
+.form-wrapper .form-label {
+  padding: 6px 0 0;
+  text-align: right;
+}
+.form-wrapper .default-value {
+  padding: 6px 0 0;
+  display: block;
+}
+.form-wrapper .button-wrapper {
+  float: left;
+}
+.form-wrapper .button-wrapper + .button-wrapper {
+  margin: 0 0 0 10px;
+}
+table.table-center-header {
+  border: 1px solid #DDDDDD;
+}
+table.table-center-header thead tr th {
+  vertical-align: middle;
+  text-align: center;
+}
+table.table-center-header tbody tr td {
+  vertical-align: middle;
+}
+table.table-center-header tbody tr td.action-column {
+  text-align: center;
+}
+.no-padding {
+  padding: 0;
+}
+.modal .modal-body textarea{
+  height: 150px;
+}
+
+/* Custom tabs */
+.simple-tabs.ui-tabs,
+.simple-tabs.ui-tabs .ui-tabs-nav {
+  padding: 0;
+}
+.simple-tabs.ui-tabs .ui-tabs-nav li {
+  margin: 3px 0 0 3px;
+}
+.simple-tabs.ui-tabs .ui-tabs-nav li + li {
+  margin: 3px 3px 0;
+}
+.simple-tabs.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+  margin-bottom: -1px;
+  background-color: #FFFFFF;
+  border: 1px solid #c5c5c5;
+  border-bottom-width: 0;
+}
+.simple-tabs.ui-tabs .ui-tabs-nav li.ui-tabs-active a {
+  color: #454545;
+}
+.simple-tabs.ui-tabs .ui-tabs-nav li a:active,
+.simple-tabs.ui-tabs .ui-tabs-nav li a:focus {
+  outline: none;
+}
+.product-list-buttons {
+  margin: 0 0 20px;
+}
+
+/* Panel */
+.panel-body {
+  overflow: initial !important;
+}
+
+/* Custom buttons */
+.btn-remove {
+  position: absolute;
+  top: 0;
+  right: 15px;
+  color: #FF0000;
+}
+.btn-remove:hover {
+  text-decoration: none;
+  color: #FF0000;
+}
+
+/* Media Queries */
+@media screen and (max-width: 992px) {
+  .form-wrapper .form-label {
+    padding: 0;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 600px){
+  table#cart tbody td {
+    min-width: 0px !important;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .product-list-buttons a {
+    width: 100%;
+    padding: 6px 0;
+  }
+  .product-list-buttons a + a {
+    margin: 5px 0 0;
+  }
+}

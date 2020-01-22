@@ -1,0 +1,93 @@
+customer_name,customer_number,psc_flag,pharma_flag,parent_dist
+AMS JAKARTA 2,AMS JAKARTA 2,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS JAKARTA 3,AMS JAKARTA 3,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS TANGERANG,AMS TANGERANG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BEKASI,AMS BEKASI,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BOGOR,AMS BOGOR,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS CIREBON,AMS CIREBON,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BANDUNG,AMS BANDUNG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS SEMARANG,AMS SEMARANG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS SOLO,AMS SOLO,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS PURWOKERTO,AMS PURWOKERTO,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS YOGYAKARTA,AMS YOGYAKARTA,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS SURABAYA 1,AMS SURABAYA 1,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS SURABAYA 2,AMS SURABAYA 2,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS MALANG,AMS MALANG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS JEMBER,AMS JEMBER,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS DENPASAR,AMS DENPASAR,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS MAKASSAR,AMS MAKASSAR,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BANJARMASIN,AMS BANJARMASIN,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS SAMARINDA,AMS SAMARINDA,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS PONTIANAK,AMS PONTIANAK,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS MEDAN,AMS MEDAN,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS PALEMBANG,AMS PALEMBANG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS PEKANBARU,AMS PEKANBARU,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BATAM,AMS BATAM,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS BANDAR LAMPUNG,AMS BANDAR LAMPUNG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+AMS PADANG,AMS PADANG,,1,159fd640-d5c9-11e7-8975-0f8b37849a21
+UDC JAKARTA 2,UDC JAKARTA 2,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC SURABAYA,UDC SURABAYA,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC PALEMBANG,UDC PALEMBANG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC BANDAR LAMPUNG,UDC BANDAR LAMPUNG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC YOGYAKARTA,UDC YOGYAKARTA,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC BATAM,UDC BATAM,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC ACEH,UDC ACEH,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC MEDAN,UDC MEDAN,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC MAKASSAR,UDC MAKASSAR,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC PADANG,UDC PADANG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC SAMARINDA,UDC SAMARINDA,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC JAKARTA 3,UDC JAKARTA 3,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC BOGOR,UDC BOGOR,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC SEMARANG,UDC SEMARANG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC BANDUNG,UDC BANDUNG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC BANJARMASIN,UDC BANJARMASIN,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC PEKANBARU,UDC PEKANBARU,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC DENPASAR,UDC DENPASAR,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC MALANG,UDC MALANG,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+UDC JAMBI,UDC JAMBI,,1,159900f0-d5c9-11e7-8cd6-2915548ad493
+PT. PENTA VALENT (TANGERANG)                                                    ,PV TANGERANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (JAKARTA - II)                                                 ,PV JAKARTA2,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (BOGOR)                                                        ,PV BOGOR,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (BANDUNG)                                                      ,PV BANDUNG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (TASIKMALAYA)                                                  ,PV TASIKMALAYA,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (CIREBON)                                                      ,PV CIREBON,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PONTIANAK)                                                    ,PV PONTIANAK,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (SEMARANG)                                                     ,PV SEMARANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (TEGAL)                                                        ,PV TEGAL,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PURWOKERTO)                                                   ,PV PURWOKERTO,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (SOLO)                                                         ,PV SOLO,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (YOGYAKARTA)                                                   ,PV YOGYA,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (BANJARMASIN)                                                  ,PV BANJARMASIN,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (DENPASAR)                                                     ,PV DENPASAR,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (MATARAM)                                                      ,PV MATARAM,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (KUPANG)                                                       ,PV KUPANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (SURABAYA)                                                     ,PV SURABAYA,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (KEDIRI)                                                       ,PV KEDIRI,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (MALANG)                                                       ,PV MALANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (JEMBER)                                                       ,PV JEMBER,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (SAMARINDA)                                                    ,PV SAMARINDA,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (MAKASSAR)                                                     ,PV MAKASSAR,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PALU)                                                         ,PV PALU,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (KENDARI)                                                      ,PV KENDARI,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (MANADO)                                                       ,PV MANADO,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (LAMPUNG)                                                      ,PV LAMPUNG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PALEMBANG)                                                    ,PV PALEMBANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (JAMBII)                                                       ,PV JAMBI,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PADANG)                                                       ,PV PADANG,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (PEKANBARU)                                                    ,PV PEKANBARU,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (MEDAN)                                                        ,PV MEDAN,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (BANDA ACEH)                                                   ,PV ACEH,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+PT. PENTA VALENT (BATAM)                                                        ,PV BATAM,,1,158bbf20-d5c9-11e7-bdfc-9713b4cdb1ec
+WOI Lhokseumawe,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI PURWAKARTA,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI TASIKMALAYA,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI BANDA ACEH,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI BANDUNG,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI JAMBI,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI MEDAN,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI P.SIANTAR,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI SUKABUMI,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI KENDARI,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+WOI MANADO,,1,,15af6ba0-d5c9-11e7-a1a9-11b81f5d8698
+PT. BINTANG MULTI GLOBAL (BOGOR),,1,,157de630-d5c9-11e7-9835-d5ee11d88a33
+PT. BINTANG MULTI GLOBAL (TANGERANG),,1,,157de630-d5c9-11e7-9835-d5ee11d88a33
